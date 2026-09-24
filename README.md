@@ -46,6 +46,12 @@ We are our own first customer.
 
 The software we recommend to other businesses comes from the same problems we deal with ourselves: payments, subscriptions, app review, scheduled work, customer accounts, search, support, and keeping software running after launch day.
 
+### What we run
+
+**[QRFLOW.codes](https://qrflow.codes)** - QR codes you can change after they are printed. Make one free with no account, see every scan, put it on your own domain, or ask Claude or ChatGPT to make it for you. [Developer docs and API](https://qrflow.codes/developers).
+
+**[Halt: Card Testing Blocker](https://apps.shopify.com/halt-card-testing-blocker)** - a Shopify app that stops card testing at checkout before the fees land.
+
 ### Based in Las Vegas. Building everywhere.
 
 Native Code LLC is based in **Las Vegas, Nevada** and works with businesses across the United States.
